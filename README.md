@@ -3,6 +3,7 @@
 <br>
 <img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/aedbe12b-e404-41ea-a16b-21de67bec94a">
 <br>
+
 - 🌱 I’m currently learning **advanced computer architecture and SoC designing.**
 
 - 💬 Ask me about **digital designing using verilog HDL.**
