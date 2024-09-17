@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adithyan V A.</h1>
 <h3 align="center">A passionate BTech student from India, interested in RTL design and FPGA prototyping.</h3>
+<br>
 <img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/aedbe12b-e404-41ea-a16b-21de67bec94a">
-
 
 - 🌱 I’m currently learning **advanced computer architecture and SoC designing.**
 
@@ -9,7 +9,8 @@
 
 - 📫 Reach me on <a href="mailto:adithyan.v.ajayan@gmail.com" target="blank" title = "Email me">**adithyan.v.ajayan@gmail.com**</a>
 
-- 📄 Know about my experiences in <a href="https://drive.google.com/file/d/1MeGBtXhpTUdPYSAgA2MU8JfwJhHjkEGQ/view?usp=sharing" target=_blank title = "Resume">**My Resume**</a> 
+- 📄 Know about my experiences in <a href="https://drive.google.com/file/d/1MeGBtXhpTUdPYSAgA2MU8JfwJhHjkEGQ/view?usp=sharing" target=_blank title = "Resume">**My Resume**</a>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
