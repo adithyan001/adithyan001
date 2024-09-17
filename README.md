@@ -2,7 +2,6 @@
 <h3 align="center">A passionate BTech student from India, interested in RTL design and FPGA prototyping.</h3>
 <br>
 <img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/aedbe12b-e404-41ea-a16b-21de67bec94a">
-<br>
 
 - 🌱 I’m currently learning **advanced computer architecture and SoC designing.**
 
