@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyan001&label=Profile%20views&color=0e75b6&style=flat" alt="adithyan001" /> </p>
 <h1 align="center">Hi 👋, I'm Adithyan V A.</h1>
 <h3 align="center">A passionate BTech student from India, interested in RTL design and FPGA prototyping.</h3>
 <br>
@@ -30,4 +31,3 @@
 <a href="https://instagram.com/adithyan_v.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adithyan_v.a" height="30" width="40" /></a>
 </p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=adithyan001&label=Profile%20views&color=0e75b6&style=flat" alt="adithyan001" /> </p>
